@@ -1,0 +1,14 @@
+*{
+    font: normal Arial;
+}
+.header{
+min-height: 50px;
+  background-color: #4eb3d8;
+  align-items: center !important;
+  padding: 0 60px;
+  color: white;
+}
+
+.chart-box {
+    margin: 10px auto 0 auto;
+}
